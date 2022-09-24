@@ -1,0 +1,9 @@
+[submodule "VisionServer"]
+	path = VisionServer
+	url = https://github.com/DevOpRohan/VisionServer.git
+[submodule "VisionAdmin"]
+	path = VisionAdmin
+	url = https://github.com/DevOpRohan/VisionAdmin.git
+[submodule "VisionUser"]
+	path = VisionUser
+	url = https://github.com/DevOpRohan/VisionUser.git
