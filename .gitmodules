@@ -1,0 +1,6 @@
+[submodule "VisionApi"]
+	path = VisionApi
+	url = https://github.com/DevOpRohan/VisionApi.git
+[submodule "VisionAndroid"]
+	path = VisionAndroid
+	url = https://github.com/DevOpRohan/VisionAndroid.git
