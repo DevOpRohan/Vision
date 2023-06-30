@@ -6,7 +6,7 @@ Vision is a Multilingual and Multimodal Conversational AI system designed to ass
 
 - [Demo](https://youtu.be/Ls6mzaTeM64)
 - [Documentation and Architecture (PPT)](https://1drv.ms/p/s!AoPml3-hFN8WgtJE8NdjsMAQxRNRlg?e=nLOsRy)
-- 
+  
 ## Features
 
 - **Conversational AI Interaction**: Double-tap anywhere on the screen and talk with Vision in natural language for easy interaction.
